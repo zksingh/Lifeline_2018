@@ -6,7 +6,7 @@
 // Also, FULL CIRCLE with the Inception!
 // OKAY, TOO CONVOLUTED, CUT OUT THE DIFFERENT FAMILIES & TYPO parts.
 
-function Start_TransWoman_1(){
+function Start_NonBinary_1(){
 	
 	/////// SET UP SCENE ////////
 

@@ -50,7 +50,7 @@ function TransMan(){
 	p("Hi, uh, I-I'm calling because I'm scared.");
 	N("I'm here.");
 	
-	Start_TransMan();
+	Start_TransMan_1();
 }
 
 function NonBinary(){
@@ -63,5 +63,5 @@ function NonBinary(){
 	p("hi...i need someone to talk to...");
 	N("I'm here for you.");
 	
-	Start_NonBinary();
+	Start_NonBinary_1();
 }

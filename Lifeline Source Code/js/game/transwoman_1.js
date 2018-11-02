@@ -44,4 +44,27 @@ function Job(){
 	p("As if nothing I've done for the past 15 years mattered.");
 	p("Once they find out your trans, it's over.");
 	
+	Choose({
+		"Let's discuss your options.": function(){
+			Options("Let's discuss your options.");
+		},
+		"How are you feeling about all of this?": function(){
+			Feeling("How are you feeling about all of this?");
+		},
+		"What can I do to help?": function(){
+			Help("What can I do to help?");
+		}
+	
+	});
+}
+function Marriage(){
+	$.asked_marriage = true;
+	N("Do you want to talk more about your marriage?");
+	p("I mean what am I supposed to say?");
+	p("I'm the man who ruined my wife's marriage all because I found out that, well...");
+	Wait(500);
+	p("...that I'm not a man. I'm a woman.");
+	p("And now she hates me for it. Even though I love her so much");
+	
+	
 }
