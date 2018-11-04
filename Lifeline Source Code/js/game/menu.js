@@ -16,10 +16,10 @@ function Start(){
 	N("Suicidal ideation is three times as high...")
 	N("We have to do everything we can. Because who else will...");
 	N("Anyways, looks like you're getting your first call.");
-	N("Best of luck friend.");
+	N("How do you want to greet them?");
 	
 	Choose({
-		"Hello and thanks for calling Trans Lifeline.": function(){
+		"Hello and thank you for calling Trans Lifeline.": function(){
 			TransWoman("Hello and thanks for calling Trans Lifeline.");
 		},
 		"Thanks for calling the Trans Lifeline.": function(){
@@ -36,10 +36,7 @@ function TransWoman(){
 	Clear();
 	N("Hello and thanks for calling the Trans Lifeline.");
 	N("How can I assist you tonight?");
-	p("I need help. Please I need help.");
-	N("Don't worry I'm here for as long as you need me.");
-	
-	Clear();
+
 	Start_TransWoman_1();
 }
 
