@@ -13,8 +13,8 @@ function Start_Part_2(){
 	"Um...that's not what I go by.": function(){
 		UmNot("Um...that's not what I go by.");
 	},
-	"...I, uh—": function () {
-		Uh("...I, uh—");
+	"...I, uh-": function () {
+		Uh("...I, uh-");
 	}
 	});
 }

@@ -31,7 +31,6 @@ function Start_Outro(){
 	N("Transphobes please find something better to do with your time than troll us.");
 	N("And to my trans brothers and sisters,");
 	N("We may have lost this battle, but in the end we will win the war.");
-	Clear();
 	N("<b>LIFELINE 2018</b>");
 }
 

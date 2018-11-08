@@ -9,6 +9,8 @@ function Start(){
 	//////////////////////////////
 	
 	N("<b>LIFELINE 2018</b>");
+	Wait(500);
+	Clear();
 	Start_Part_1();
 }
 function Start_Part_1(){
