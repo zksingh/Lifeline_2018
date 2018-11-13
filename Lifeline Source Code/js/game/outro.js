@@ -19,16 +19,17 @@ function Start_Outro(){
 	///////////////////////////////
 
 	N("Dear Player,");
-	N("Welcome to the outro.");
+	N("I see you've made it to the end. Lucky you.");
 	N("I wrote this game in a response to the transphobia I experience on a daily basis.");
+	N("There is no end in sight for me.")
 	N("The leaked memo from the Trump Administration doesn't make it any better.");
 	N("This was a chance for you all to walk in my shoes, regardless of how you identify.");
-	N("Everyone perpetuates transphobia whether they know it or not.");
-	N("And the mental repercussions of it on trans folks is horrible.");
-	N("So I am asking for us to be more aware of who we are with.");
+	N("Everyone perpetuates transphobia, whether they know it or not.");
+	N("And the mental repercussions of it on trans folks is indefensible.");
+	N("So I am asking for us to be more aware of who we walk amongst...");
 	N("And to realize that each one of us holds different identities.");
 	N("Cis folks, please become allies to your trans classmates, coworkers, friends, and family.");
-	N("Transphobes please find something better to do with your time than troll us.");
+	N("Transphobes, please find something better to do with your time than troll us.");
 	N("And to my trans brothers and sisters,");
 	N("We may have lost this battle, but in the end we will win the war.");
 	N("<b>LIFELINE 2018</b>");

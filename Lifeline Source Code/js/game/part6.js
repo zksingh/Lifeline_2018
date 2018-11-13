@@ -1,6 +1,6 @@
 function Start_Part_6(){
-	p("Hey are you back in your room safely?");
-	N("Hey Gloria yeah I am.");
+	p("Hey, are you back in your room safely?");
+	N("Hey... yeah, I am.");
 	N("Except for the part where my PIN code wasn't working and this administrator wouldn't let me in...");
 	N("All because she didn't believe I went to school here.");
 	p("What?!");
@@ -30,7 +30,7 @@ function Pissed(){
 	p("I'm really sorry that happened to you.");
 	N("Yeah me too. This college let me down big time.");
 	N("Just fucking erase us already. Clearly we don't matter.");
-	p("No Zayn. You can't have that attitude.");
+	p("No, Zayn. You can't have that attitude.");
 	N("I know. It's just so hard not to give up.");
 	p("I know.");
 	N("Yeah..");

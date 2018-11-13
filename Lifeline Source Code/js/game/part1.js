@@ -17,11 +17,11 @@ function Start_Part_1(){
 	p("Zayn.");
 	p("Zayn wake up.");
 	p("ZAYN I need you to read this.");
-	N("Hey morning sorry I slept in.");
+	N("Hey, morning... sorry I slept in.");
 	p("Did you read it?");
 	N("Read what?");
 	p("The article.");
-	N("Hold on I'm reading it now.");
+	N("Hold on, I'm reading it now.");
 	Wait(500);
 	N("Oh my god...");
 	N("<b>TRUMP TO REDEFINE DEFINITION OF GENDER--ERASING TRANS PEOPLE.</b>");
@@ -46,7 +46,7 @@ function IDontKnow(){
 	N("Okay.");
 	p("It's gonna be okay.");
 	N("Yeah.");
-	p("I will text you later ok? See you after practice.");
+	p("I will text you later, ok? See you after practice.");
 	N("Yeah no worries. Have a good practice.");
 	Clear();
 	Start_Part_2();
@@ -54,10 +54,14 @@ function IDontKnow(){
 function ImFine(){
 	$.asked_imfine = true;
 	N("I'm fine, it'll be fine. It's not a real policy yet...");
-	p("I mean yeah but still are you sure you're ok?");
+	p("I mean, yeah... but DOJ already sent it to the Supreme Court..");
+	N("Seriously?")
+	p("Yeah, the case of discrimination against a trans woman in Florida. They move fast.")
+	N("Wow. Um. Well, as for today.. today, I'm okay.")
+	p("You sure?")
 	N("Yeah I'm good I promise.");
-	p("Okay I trust you");
-	N("Okay.");
+	p("Okay, I trust you.");
+	N("...Okay.");
 	p("I will text you later ok? See you after practice.");
 	N("Yeah for sure. Have a good practice.");
 	Clear();
