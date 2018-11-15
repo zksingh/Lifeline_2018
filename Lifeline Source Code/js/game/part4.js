@@ -16,13 +16,13 @@ function Start_Part_4(){
 	N("Okay I'm thinking of something.");
 	
 	Choose({
-	"If I was mentally ill for being trans, then explain to me why I am so much happier on T than I wasn't?": function(){
+	"If I was mentally ill...": function(){
 		ImSorrySir("If I was mentally ill..");
 	},
-	"Hello, I hope you enjoyed reading my entire poem just to tell me I was mentally ill. Here is a link to a real study you can read as to why you're information is false.": function(){
+	"Hello, I hope you enjoyed reading my poem...": function(){
 		HelloSir("Hello, I hope you enjoyed reading my poem...");
 	},
-	"Hi thanks for reading my piece. I just want to ask, what did you hope to accomplish by responding?": function (){
+	"Hi thanks for reading my piece...": function (){
 		HiThanks("Hi thanks for reading my piece...");
 	}
 	});
